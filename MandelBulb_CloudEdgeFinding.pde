@@ -1,6 +1,6 @@
 import peasy.*;
 
-int DIM = 128;
+int DIM = 164;
 PeasyCam cam;
 ArrayList<PVector> mandelbulb = new ArrayList<PVector>();
 
